@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Estándares de Seguridad Infantil - Latio Social</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background: #f9f9f9; }
+    h1, h2 { color: #2c3e50; }
+    p, li { color: #333; }
+    section { margin-bottom: 20px; }
+    ul { margin-left: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Estándares de Seguridad Infantil</h1>
+  <p><strong>Latio Social</strong> está comprometida con la protección de los menores y el cumplimiento de las normativas internacionales de seguridad digital.</p>
+
+  <section>
+    <h2>1. Restricción de Edad</h2>
+    <ul>
+      <li>El uso de Latio Social está permitido únicamente para mayores de 18 años.</li>
+      <li>Se implementan verificaciones de edad en el registro.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>2. Privacidad y Protección de Datos</h2>
+    <ul>
+      <li>No se recopila información personal de menores.</li>
+      <li>Los datos de los usuarios se manejan bajo estrictos estándares de seguridad y cifrado.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>3. Contenido Seguro</h2>
+    <ul>
+      <li>Se prohíbe la publicación de material inapropiado o que ponga en riesgo a menores.</li>
+      <li>Los reportes de usuarios son revisados y atendidos de forma inmediata.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>4. Supervisión y Control</h2>
+    <ul>
+      <li>Se aplican filtros automáticos para detectar conductas sospechosas.</li>
+      <li>El equipo de moderación revisa perfiles y chats para garantizar un entorno seguro.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>5. Cumplimiento Legal</h2>
+    <ul>
+      <li>Latio Social cumple con la Ley de Protección de Datos Personales en Colombia y estándares internacionales como COPPA y GDPR.</li>
+      <li>Se coopera con autoridades en casos de denuncias relacionadas con menores.</li>
+    </ul>
+  </section>
+
+  <p>La seguridad de los menores es una prioridad absoluta en Latio Social. Nuestro compromiso es ofrecer un espacio confiable, respetuoso y libre de riesgos.</p>
+</body>
+</html>
